@@ -2,7 +2,7 @@
 <h3 align="center">SOFTWARE DEVELOPMENT ENGINEERING</h3>
 
 I am a fourth-year Computer Science student at the University of British Columbia, specializing in Java and Python. I excel in designing intuitive UI/UX and leading projects to enhance system performance. Proficient in Agile methodologies, SDLC, and modern web technologies.
-Currently pursuing certifications in DevOps and Software Engineering to broaden my technical expertise, I am eager to collaborate with innovative teams to develop high-quality software solutions, leveraging my strong communication and teamwork skills to contribute effectively to meaningful projects.
+Currently pursuing certifications in DevOps and Software Engineering to broaden my technical expertise, I am eager to collaborate with innovative teams to develop high-quality software solutions.
 
 - 🔭 I’m currently working on [a Event ticketing platform](https://github.com/LORDSAMARRIPAS/SublimeApp)
 
