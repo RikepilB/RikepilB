@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm RICHARD PILLACA</h1>
-<h3 align="center">SOFTWARE DEVELOPMENT ENGINEERING</h3>
+# RICHARD PILLACA :blush: #
+**`SOFTWARE DEVELOPMENT ENGINEERING`**
 
 I am a fourth-year Computer Science student at the University of British Columbia, specializing in Java and Python. I excel in designing intuitive UI/UX and leading projects to enhance system performance. Proficient in Agile methodologies, SDLC, and modern web technologies.
 Currently pursuing certifications in DevOps and Software Engineering to broaden my technical expertise, I am eager to collaborate with innovative teams to develop high-quality software solutions.
