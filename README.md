@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/7cc1cbdf-208a-4c2a-8aed-e732c0be4d04)
+
 # RICHARD PILLACA :blush: #
 **`SOFTWARE DEVELOPMENT ENGINEERING`**
 
