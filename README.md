@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [a Event ticketing platform](https://github.com/LORDSAMARRIPAS/SublimeApp)
 
-- 🌱 I’m currently learning **Java Enterprise, Angular, React, Cloud computing and AI/ML**
+- 🌱 I’m currently learning **Java Enterprise, Angular, React, Cloud computing, DevOps and AI/ML**
 
 - 💬 Ask me about **Java, Python, HTML/CSS/JavaScript, Databases, Docker or GitHub**
 
