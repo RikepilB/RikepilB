@@ -10,15 +10,12 @@ Currently pursuing certifications in DevOps and Software Engineering to broaden 
 
 - 💬 Ask me about **Java, Python, HTML/CSS/JavaScript, Databases, Docker or GitHub**
 
-- 📫 How to reach me **ridi.pillaca@gmail.com**
-
 - 📄 Know about my experiences [ MyResume ](https://drive.google.com/file/d/1Jk7nFmQByokGeVGBOzILnZU0UEeBlCH4/view?usp=sharing)
 
 - ⚡ Fun fact **I am athletic person and I love football**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+- 📫 How to reach me **ridi.pillaca@gmail.com**
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
