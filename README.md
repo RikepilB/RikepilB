@@ -6,7 +6,7 @@
 I am a fourth-year Computer Science student at the University of British Columbia, specializing in Java and Python. I excel in designing intuitive UI/UX and leading projects to enhance system performance. Proficient in Agile methodologies, SDLC, and modern web technologies.
 Currently pursuing certifications in DevOps and Software Engineering to broaden my technical expertise, I am eager to collaborate with innovative teams to develop high-quality software solutions.
 
-- 🔭 I’m currently working on [a Event ticketing platform](https://github.com/LORDSAMARRIPAS/SublimeApp)
+- 🔭 I’m currently working on [Exam Generation & Analysis System](https://github.com/UBCO-COSC499-S2025/team-14-capstone-team-14-capstone)
 
 - 🌱 I’m currently learning **Java Enterprise, Angular, React, Cloud computing, DevOps and AI/ML**
 
