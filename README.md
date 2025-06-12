@@ -8,7 +8,9 @@ Currently pursuing certifications in DevOps and Software Engineering to broaden 
 
 - 🔭 I’m currently working on [Exam Generation & Analysis System](https://github.com/UBCO-COSC499-S2025/team-14-capstone-team-14-capstone)
 
-- 🌱 I’m currently learning **Java Enterprise, Angular, React, Cloud computing, DevOps and AI/ML**
+- 🌱 I’m currently learning **Java Enterprise, Django, React, Cloud computing, DevOps and AI/ML**
+- 
+- My portflio https://rikepilb.github.io/Rikepilb-portfolio/
 
 - 💬 Ask me about **Java, Python, HTML/CSS/JavaScript, Databases, Docker or GitHub**
 
