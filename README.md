@@ -14,7 +14,7 @@ Currently pursuing certifications in DevOps and Software Engineering to broaden 
 
 - 💬 Ask me about **Java, Python, HTML/CSS/JavaScript, Databases, Docker or GitHub**
 
-- 📄 Know about my experiences [ MyResume ](https://drive.google.com/file/d/1Jk7nFmQByokGeVGBOzILnZU0UEeBlCH4/view?usp=sharin)
+- 📄 Know about my experiences [ MyResume ](https://drive.google.com/file/d/1FEBHyejlVVNT3HmDC1a1TdA5j-ZVK5Hj/view?usp=sharing)
 
 - ⚡ Fun fact **I am athletic person and I love football**
 
