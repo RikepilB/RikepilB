@@ -10,11 +10,11 @@ Currently pursuing certifications in DevOps and Software Engineering to broaden 
 
 - 🌱 I’m currently learning **Java Enterprise, Django, React, Cloud computing, DevOps and AI/ML**
 - 
-- My portflio https://rikepilb.github.io/Rikepilb-portfolio/
+- My portflio https://richard-pillaca-portfolio.vercel.app/
 
 - 💬 Ask me about **Java, Python, HTML/CSS/JavaScript, Databases, Docker or GitHub**
 
-- 📄 Know about my experiences [ MyResume ](https://drive.google.com/file/d/1Jk7nFmQByokGeVGBOzILnZU0UEeBlCH4/view?usp=sharing)
+- 📄 Know about my experiences [ MyResume ](https://drive.google.com/file/d/1Jk7nFmQByokGeVGBOzILnZU0UEeBlCH4/view?usp=sharin)
 
 - ⚡ Fun fact **I am athletic person and I love football**
 
