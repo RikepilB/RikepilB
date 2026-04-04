@@ -8,11 +8,11 @@ Currently pursuing certifications in DevOps and Software Engineering to broaden 
 
 - 🔭 I’m currently working on [Exam Generation & Analysis System](https://github.com/UBCO-COSC499-S2025/team-14-capstone-team-14-capstone)
 
-- 🌱 I’m currently learning **Java Enterprise, Django, React, Cloud computing, DevOps and AI/ML**
+- 🌱 I’m currently learning **Java Enterprise, Cloud computing, DevOps and AI/ML**
 - 
 - My portflio https://richard-pillaca-portfolio.vercel.app/
 
-- 💬 Ask me about **Java, Python, HTML/CSS/JavaScript, Databases, Docker or GitHub**
+- 💬 Ask me about **Python, Java, Typescript, Javascript, Django, React, HTML/CSS, PostgreSQL/MongoDB, Docker, Claude code**
 
 - 📄 Know about my experiences [ MyResume ](https://drive.google.com/file/d/1FEBHyejlVVNT3HmDC1a1TdA5j-ZVK5Hj/view?usp=sharing)
 
