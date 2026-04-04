@@ -8,10 +8,8 @@ Expertise includes intuitive UI/UX design, performance enhancement, Agile, SDLC,
 
 
 
-- 🔭 I’m currently working on [Exam Generation & Analysis System](https://github.com/UBCO-COSC499-S2025/team-14-capstone-team-14-capstone)
+- 🔭 I’m currently working on [Braintrainr page](https://www.linkedin.com/company/braintrainr/posts/?feedView=all)
 - 🌱 I’m currently learning **Java Enterprise, Cloud computing, DevOps and AI/ML**
-- My portflio: https://richard-pillaca-portfolio.vercel.app/
-
 - 💬 Ask me about **Python, Java, Typescript, Javascript, Django, React, HTML/CSS, PostgreSQL/MongoDB, Docker, Claude code**
 
 - 📄 Know about my experiences [ MyResume ](https://drive.google.com/file/d/18PK6FHCYwV2ebexpHNsd9UKEm39FtP02/view?usp=sharing)
