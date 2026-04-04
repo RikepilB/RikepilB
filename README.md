@@ -2,19 +2,20 @@
 
 # RICHARD PILLACA :blush: #
 **`SOFTWARE DEVELOPMENT ENGINEERING`**
+Experienced full-stack developer with a robust background in the development of web and data-intensive applications. Successfully implemented an onboarding flow utilizing Alpine.js and Tailwind CSS, which decreased user signup time from two minutes to 45 seconds. Concurrently, a modular Laravel authentication system was developed, resulting in dozens of reduced maintenance hours monthly. Engineered an exam analysis system using Python, Django, and PostgreSQL to process in excess of 100,000 records, thereby minimizing report load times to one minute and decreasing grading time from four hours to mere minutes.
 
-I am a fourth-year Computer Science student at the University of British Columbia, specializing in Java and Python. I excel in designing intuitive UI/UX and leading projects to enhance system performance. Proficient in Agile methodologies, SDLC, and modern web technologies.
-Currently pursuing certifications in DevOps and Software Engineering to broaden my technical expertise, I am eager to collaborate with innovative teams to develop high-quality software solutions.
+My expertise includes the design of intuitive UI/UX and leading projects focused on enhancing system performance. I am proficient in Agile methodologies, the Software Development Life Cycle (SDLC), and contemporary web technologies. Currently pursuing certifications in cloud computing, AWS AI practicioner and Anthropic AI architectto augment technical knowledge, I am proactively seeking collaboration with innovative teams to deliver high-quality software solutions.
+
 
 - 🔭 I’m currently working on [Exam Generation & Analysis System](https://github.com/UBCO-COSC499-S2025/team-14-capstone-team-14-capstone)
 
 - 🌱 I’m currently learning **Java Enterprise, Cloud computing, DevOps and AI/ML**
 - 
-- My portflio https://richard-pillaca-portfolio.vercel.app/
+- My portflio: https://richard-pillaca-portfolio.vercel.app/
 
 - 💬 Ask me about **Python, Java, Typescript, Javascript, Django, React, HTML/CSS, PostgreSQL/MongoDB, Docker, Claude code**
 
-- 📄 Know about my experiences [ MyResume ](https://drive.google.com/file/d/1FEBHyejlVVNT3HmDC1a1TdA5j-ZVK5Hj/view?usp=sharing)
+- 📄 Know about my experiences [ MyResume ](https://drive.google.com/file/d/18PK6FHCYwV2ebexpHNsd9UKEm39FtP02/view?usp=sharing)
 
 - ⚡ Fun fact **I am athletic person and I love football**
 
