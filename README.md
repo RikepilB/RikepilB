@@ -7,9 +7,7 @@ My expertise includes the design of intuitive UI/UX and leading projects focused
 
 
 - 🔭 I’m currently working on [Exam Generation & Analysis System](https://github.com/UBCO-COSC499-S2025/team-14-capstone-team-14-capstone)
-
 - 🌱 I’m currently learning **Java Enterprise, Cloud computing, DevOps and AI/ML**
-- 
 - My portflio: https://richard-pillaca-portfolio.vercel.app/
 
 - 💬 Ask me about **Python, Java, Typescript, Javascript, Django, React, HTML/CSS, PostgreSQL/MongoDB, Docker, Claude code**
