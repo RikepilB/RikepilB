@@ -2,9 +2,10 @@
 
 # RICHARD PILLACA :blush: #
 **`SOFTWARE DEVELOPMENT ENGINEERING`**
-Experienced full-stack developer with a robust background in the development of web and data-intensive applications. Successfully implemented an onboarding flow utilizing Alpine.js and Tailwind CSS, which decreased user signup time from two minutes to 45 seconds. Concurrently, a modular Laravel authentication system was developed, resulting in dozens of reduced maintenance hours monthly. Engineered an exam analysis system using Python, Django, and PostgreSQL to process in excess of 100,000 records, thereby minimizing report load times to one minute and decreasing grading time from four hours to mere minutes.
+Experienced Full-stack developer experienced in web and data-intensive applications. Decreased user signup time to 45 seconds using Alpine.js and Tailwind CSS for onboarding. Developed a modular Laravel authentication system, reducing maintenance hours. Engineered a Python/Django/PostgreSQL exam analysis system to process over 100,000 records, cutting report load times to one minute and grading time from four hours to minutes.
 
-My expertise includes the design of intuitive UI/UX and leading projects focused on enhancing system performance. I am proficient in Agile methodologies, the Software Development Life Cycle (SDLC), and contemporary web technologies. Currently pursuing certifications in cloud computing, AWS AI practicioner and Anthropic AI architectto augment technical knowledge, I am proactively seeking collaboration with innovative teams to deliver high-quality software solutions.
+Expertise includes intuitive UI/UX design, performance enhancement, Agile, SDLC, and modern web technologies. Currently pursuing cloud computing, AWS AI, and Anthropic AI certifications. Seeking collaboration with innovative teams to deliver high-quality software solutions.
+
 
 
 - 🔭 I’m currently working on [Exam Generation & Analysis System](https://github.com/UBCO-COSC499-S2025/team-14-capstone-team-14-capstone)
