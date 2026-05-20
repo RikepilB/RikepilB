@@ -147,7 +147,7 @@
     <td width="50%">
       <h3 align="center">Exam Analysis System</h3>
       <p align="center">
-        <a href="https://github.com/UBCO-COSC499-S2025/team-14-capstone-team-14-capstone" target="_blank">
+        <a href="[https://github.com/UBCO-COSC499-S2025/team-14-capstone-team-14-capstone](https://github.com/RikepilB/ExamVault)" target="_blank">
           <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
       </p>
