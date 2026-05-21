@@ -147,7 +147,7 @@
     <td width="50%">
       <h3 align="center">Exam Analysis System</h3>
       <p align="center">
-        <a href="[https://github.com/UBCO-COSC499-S2025/team-14-capstone-team-14-capstone](https://github.com/RikepilB/ExamVault)" target="_blank">
+        <a href="https://github.com/RikepilB/ExamVault" target="_blank">
           <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
       </p>
@@ -159,23 +159,24 @@
       </p>
     </td>
     <td width="50%">
-      <h3 align="center">Accounting Automation</h3>
+      <h3 align="center">Empeñalo — Fintech Marketplace</h3>
       <p align="center">
-        <a href="https://richard-pillaca-portfolio.vercel.app/projects/accounting-automation" target="_blank">
-          <img src="https://img.shields.io/badge/View_Case_Study-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white"/>
+        <a href="https://github.com/RikepilB/empeno-quick-cash" target="_blank">
+          <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
       </p>
-      <p align="center">Replaced 4+ hours of manual copy-paste work with a 12-minute Power Query refresh for real accounting teams.</p>
+      <p align="center">A Peruvian fintech marketplace where users pawn/secure items and receive multiple real offers from businesses.</p>
       <p align="center">
-        <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Power_Query-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
-        <img src="https://img.shields.io/badge/M_Language-742774?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+        <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
       </p>
     </td>
   </tr>
 </table>
-
----
 
 ## 🎯 Beyond Code
 
