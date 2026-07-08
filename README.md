@@ -178,6 +178,53 @@
   </tr>
 </table>
 
+---
+
+## 📇 Open-Source Index — everything I've shipped
+
+The full catalog, grouped. Live links where deployed; source links for everything public.
+
+### 🌐 Products & full-stack apps
+
+| Project | What it is | Stack | Links |
+|---|---|---|---|
+| **Empeñalo** | Two-sided pawn-shop marketplace (Lima) — reverse-auction between clients and lenders, RLS on every table, subscription billing | React 19 · TanStack · Supabase · Culqi | [live](https://empenalo.netlify.app) · [code](https://github.com/RikepilB/empeno-quick-cash) |
+| **El Umbral** (Build4Venezuela) | Bilingual "search before you build" hub for earthquake-relief tech, public versioned REST API | Next.js 16 · Fuse.js · Vercel | [live](https://elumbralvzla.org) · [code](https://github.com/RikepilB/build4venezuela-projecthub) |
+| **AquaTwin** | Virtual water-metering SaaS for data centers — power→water estimation, audit-logged billing, BRSR reports | Next.js 16 · FastAPI · Supabase | live (custom domain pending) · source opening soon |
+| **FindLeads** | Lead-gen tool + built-in CRM; flags website-less businesses, queue-less resumable jobs, 103 tests | Next.js 16 · Neon · Drizzle | [code](https://github.com/RikepilB/findleads) |
+| **ExamVault** | Exam generation & collusion-detection analytics (UBC capstone, 5-person team) | Django · DRF · React 19 | [code](https://github.com/RikepilB/ExamVault) |
+| **HUGO Web** | Marketing site + Cal.com booking for a solo lawyer | Next.js · Tailwind | [code](https://github.com/RikepilB/hugo-lawyer-portfolio) |
+
+### 🤖 AI engineering & agent tooling
+
+| Project | What it is | Stack | Links |
+|---|---|---|---|
+| **read-video** | Claude Code skill: turns any video into frames + transcript, prices the job before spending; 93.3% eval pass vs 66.7% baseline | Python · ffmpeg · Whisper | [code](https://github.com/RikepilB/read-video) |
+| **claude-skills** | 2 open-source Claude Code skills — `project-scaffold` (AI-native repo bootstrapper) + `handoff-to-issues` | Node.js · Markdown | [code](https://github.com/RikepilB/claude-skills) |
+| **SkillVault** | 25 curated third-party agent skills, staged by project lifecycle | Claude Code · Markdown | [code](https://github.com/RikepilB/SkillVault) |
+| **ResumeScorer** | Reverse-engineers an LLM resume screener across 3 backends; turns scores into honest edit plans | Python · PowerShell · OpenRouter/Ollama | [code](https://github.com/RikepilB/ResumeScorer) |
+
+### 🗺️ Open source & data
+
+| Project | What it is | Stack | Links |
+|---|---|---|---|
+| **Peru Grid** | Zero-dependency interactive map of Peru's tech ecosystem — 53 researched orgs across Lima & Arequipa | MapLibre GL · OpenFreeMap | [code](https://github.com/RikepilB/peru-tech-map) |
+| **VenezuelaDataCrisis** | Contribution to a missing-persons dedup pipeline — found & reported a schema-mismatch bug | Data pipeline | [contribution](https://github.com/RikepilB/VenezuelaDataCrisis) |
+| **ReencuentroTerremotoVenezuela** | 3 security fixes to a disaster-reunification platform (incl. a CORS substring-bypass fix) | Full-stack | [contribution](https://github.com/RikepilB/ReencuentroTerremotoVenezuela) |
+
+### 📊 Data analysis & earlier work
+
+| Project | What it is | Links |
+|---|---|---|
+| **Bike Share Network Optimization** | Graph-theory analysis of 150K+ Vancouver Mobi trips — hubs, dead zones, rebalancing | [code](https://github.com/Sumer26/COSC_421_Project_Newtork_Science) |
+| **AI Technical Debt Research** | Mined 5,000+ GitHub repos to test whether AI-generated code carries more debt | [code](https://github.com/mariyaputwa/COSC-419O-Mining-Software-Repositories) |
+| **Sublime** | Django event-ticketing platform with real payment flow (UBC team project) | [code](https://github.com/RikepilB/SublimeApp) |
+| **DiscussionForum** | PHP/MySQL forum with a documented security-hardening pass (MD5→bcrypt, CSRF, XSS, SQLi) | [code](https://github.com/RikepilB/DiscussionForum) |
+
+> 🔗 Full case studies with methodology & results at **[my portfolio](https://richard-pillaca-portfolio.vercel.app/projects)**.
+
+---
+
 ## 🎯 Beyond Code
 
 <table>
