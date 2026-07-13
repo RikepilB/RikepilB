@@ -27,40 +27,15 @@
   <a href="https://richard-pillaca-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
   <a href="https://www.linkedin.com/in/richard-pillaca"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:ridi.pillaca@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://drive.google.com/file/d/18PK6FHCYwV2ebexpHNsd9UKEm39FtP02/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume"/></a>
+  <a href="[https://drive.google.com/file/d/18PK6FHCYwV2ebexpHNsd9UKEm39FtP02/view?usp=sharing](https://drive.google.com/file/d/1ensAS0PkxlizxYxtjnyaK6JUrWx_YOS6/view?usp=sharing)"><img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume"/></a>
 </p>
 
 ---
-
-## ⚡ At a Glance
-
-<table>
-  <tr>
-    <td align="center"><strong>6+</strong><br/>Projects Shipped</td>
-    <td align="center"><strong>5,000+</strong><br/>Repos Analyzed</td>
-    <td align="center"><strong>15+</strong><br/>Technologies</td>
-    <td align="center"><strong>3</strong><br/>Certifications</td>
-  </tr>
-</table>
-
-### 🏆 Key Wins
-
-| Project | Stack | Impact |
-|---------|-------|--------|
-| **Onboarding Flow** | Alpine.js, Tailwind CSS | User signup time **2 min → 45 sec** |
-| **Auth System** | Laravel, PHP | Modular design, **reduced maintenance hours** |
-| **Exam Analysis System** | Python, Django, PostgreSQL | **100K+ records**, grading **4 hrs → minutes** |
-
-<details open>
-<summary><strong>🎯 What I'm up to</strong></summary>
-<br/>
-
-- 🔭 **Currently working on:** [BrainTrainr](https://braintrainr.com) — EdTech platform (Web Content & UX Lead)
-- 🌱 **Learning:** Java Enterprise, Cloud Computing, DevOps, AI/ML
-- 💬 **Ask me about:** Python, Java, TypeScript, JavaScript, Django, React, HTML/CSS, PostgreSQL/MongoDB, Docker, Claude Code
-- 📄 **Experience:** [View my Resume](https://drive.google.com/file/d/18PK6FHCYwV2ebexpHNsd9UKEm39FtP02/view?usp=sharing)
-- ⚽ **Fun fact:** I'm athletic — I love football and have traveled to 14+ countries
-- 📫 **Reach me:** [ridi.pillaca@gmail.com](mailto:ridi.pillaca@gmail.com)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+  <img alt="rikepilb's GitHub profile" src="dark_mode.svg" />
+</picture>
 
 </details>
 
