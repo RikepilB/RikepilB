@@ -12,8 +12,7 @@
 </p>
 
 <p align="center">
-  Full-stack developer experienced in web and data-intensive applications.<br/>
-  I build intuitive UIs, performant backends, and systems that turn hours of work into minutes.
+  Full-stack engineer, currently focused on the frontend, building scalable interfaces with React, Next.js, and Node.js. I've shipped AI-driven apps and engineered systems end to end. Now going deeper into AI infrastructure and high-performance engineering.
 </p>
 
 <!-- Impact metrics as visual highlights -->
